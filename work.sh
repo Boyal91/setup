@@ -1,1 +1,2 @@
-echo echo "😍 this works 😍"
+echo "😍 this works 😍"
+echo "😍 this works too 😍"
